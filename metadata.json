@@ -1,0 +1,8 @@
+{
+  "name": "트렌디 AI 관상 (Trendy Physiognomy AI)",
+  "description": "Google MediaPipe 3D 안면 인식과 생성형 AI를 활용한 2030 맞춤형 엔터테인먼트 관상 풀이 앱",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
